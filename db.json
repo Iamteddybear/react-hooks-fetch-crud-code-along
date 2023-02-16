@@ -1,9 +1,21 @@
 {
   "items": [
     {
-      "id": 2,
-      "name": "Pomegranate",
+      "id": 1,
+      "name": "Yogurt",
+      "category": "Dairy",
+      "isInCart": true
+    },
+    {
+      "id": 3,
+      "name": "Lettuce",
       "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "String Cheese",
+      "category": "Dairy",
       "isInCart": false
     },
     {
@@ -16,7 +28,19 @@
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": true
+    },
+    {
+      "name": "asd123",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "asd",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
